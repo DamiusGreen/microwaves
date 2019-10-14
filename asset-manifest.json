@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/microwaves/static/css/main.6587be9e.chunk.css",
+    "main.js": "/microwaves/static/js/main.0506719e.chunk.js",
+    "main.js.map": "/microwaves/static/js/main.0506719e.chunk.js.map",
+    "runtime~main.js": "/microwaves/static/js/runtime~main.9a6a6ba0.js",
+    "runtime~main.js.map": "/microwaves/static/js/runtime~main.9a6a6ba0.js.map",
+    "static/js/2.25b1c4fe.chunk.js": "/microwaves/static/js/2.25b1c4fe.chunk.js",
+    "static/js/2.25b1c4fe.chunk.js.map": "/microwaves/static/js/2.25b1c4fe.chunk.js.map",
+    "index.html": "/microwaves/index.html",
+    "precache-manifest.e4b548b031b7ebde7e3dead35c0dfe73.js": "/microwaves/precache-manifest.e4b548b031b7ebde7e3dead35c0dfe73.js",
+    "service-worker.js": "/microwaves/service-worker.js",
+    "static/css/main.6587be9e.chunk.css.map": "/microwaves/static/css/main.6587be9e.chunk.css.map"
+  }
+}
